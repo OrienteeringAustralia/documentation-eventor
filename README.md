@@ -1,8 +1,6 @@
-# eventor-documentation-test
+# Orienteering Australia Eventor Documentation
 
-Project Name: Orienteering Australia Eventor Documentation
-
-Description: Documentation for Orienteering Australias online event calendar, entry and membership system
+Documentation for Orienteering Australias online event calendar, entry and membership system. Checkout the [wiki](https://github.com/OrienteeringAustralia/documentation-eventor/wiki)
 
 Credits: Craig Feuerherdt
 
